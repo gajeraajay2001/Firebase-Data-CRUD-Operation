@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "962273867158",
+    "project_id": "triputi-56c31",
+    "storage_bucket": "triputi-56c31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:962273867158:android:6d6dd916ad2b7c110919b7",
+        "android_client_info": {
+          "package_name": "com.example.triputi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "962273867158-bbpd5q64i65h6ildsuh19rfcdsj322kd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2JA4I_TL6TFibqfoWqnSOW4cVOefvZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "962273867158-bbpd5q64i65h6ildsuh19rfcdsj322kd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
